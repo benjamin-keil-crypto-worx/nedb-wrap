@@ -1,0 +1,16 @@
+{
+  "name": "nedb-wrap",
+  "version": "1.0.0",
+  "description": "wrapper and helper around ned lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Benjamin Keil",
+  "license": "ISC",
+  "dependencies": {
+    "nedb": "^1.8.0",
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}

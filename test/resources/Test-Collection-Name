@@ -1,0 +1,5 @@
+{"field1":"TestField1","field2":"TestField2","field3":"TestField3","_id":"4PwpDXIrKHT4fVzq"}
+{"field1":"TestField1-Updated","field2":"TestField2","field3":"TestField3","_id":"4PwpDXIrKHT4fVzq"}
+{"field4":"TestField4","field5":"TestField5","field6":"TestField6","_id":"EjWx3fKU00gNCbJu"}
+{"$$deleted":true,"_id":"EjWx3fKU00gNCbJu"}
+{"$$deleted":true,"_id":"4PwpDXIrKHT4fVzq"}
