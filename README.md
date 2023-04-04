@@ -11,6 +11,9 @@ https://www.npmjs.com/package/nedb
 
 ````bash
 npm install --save nedb-wrap
+
+# Or install it globally
+npm install -g nedb-wrap
 ````
 
 ## Usage
