@@ -32,8 +32,7 @@ let Schema = require("nedb-wrap").createSchema(dataBasePath)
 - query
   A object containing a specific Query to query the Collection ex: ``{field1:"TestField1"}`` a query to find objects where ``field1`` is ``TestField1``
 
-
-
+  
 ### Adding a New Collection & Data to your DB
 
 ```js
