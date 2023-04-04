@@ -2,6 +2,7 @@
 
 nedb-wrap is a very simple wrapper around nedb a local small lightweight no-sql dtabase similiar to mongodb
 
+The original nedb npm package is available below
 https://www.npmjs.com/package/nedb
 
 
